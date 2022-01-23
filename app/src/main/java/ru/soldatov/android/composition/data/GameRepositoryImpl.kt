@@ -35,7 +35,7 @@ object GameRepositoryImpl : GameRepository {
                     10,
                     3,
                     50,
-                    80
+                    10
                 )
             }
 
